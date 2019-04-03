@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Place this tag in your head or just before your close body tag. -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    <title>ddrohan.github.io by ddrohan</title>
+
+     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2/semantic.min.css" type="text/css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/styles/solarized_light.min.css" rel="stylesheet" />
+
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.address/1.6/jquery.address.min.js"></script>
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2/semantic.min.js"></script>
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/languages/java.min.js"></script>
+     <script>hljs.initHighlightingOnLoad();</script>
+
+      <style>
+
+
+body
+{
+  font-family: "Open Sans", "Helvetica", "Helvetica Neue",  "Arial", sans-serif;
+}
+
+figcaption
+{
+  margin-bottom: 20px;
+}
+
+.vertical-align
+{
+  display: flex;
+  align-items: center;
+}
+
+.credits
+{
+  min-height:20px;
+}
+
+
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>ddrohan.github.io</h1>
+        <h2 font color="black">Resources Home Page for NUIST 2019</h2>
+        <h3>ddrohan@wit.ie</h3>
+        <!-- Place this tag where you want the button to render. -->
+        <a class="github-button" href="https://github.com/ddrohan" data-size="large" data-show-count="true" aria-label="Follow @ddrohan on GitHub">Follow @ddrohan</a>
+      </div>
+    </header>
+
+<script>
+  $('.popup')
+  .popup()
+;
+</script>
+
+<div class="ui two doubling stackable cards">
+
+  <a class="ui raised link card" href="http://ddrohan.github.io/wit-mad-1-2018">
+    <div class="content">
+        <div class="right floated meta"> <i class="sitemap large icon"></i></div>
+        <div class="header"> Mobile App Development 1</div>
+    </div>
+    <div class="image">
+      <img class="ui bordered rounded image" src="./images/mb2.png">
+    </div>
+    <div class="content">
+      <div class="description">
+         <p>Android introduced a new user interface language to the world, one that is gradually evolving in flexibility and expressiveness. The first application we will build exhibits a range of new concepts you may not have come across before. Here we tour this app in detail, exploring each of the artifacts we have composed, and attempt to get a sense of how they fit together to form a running app.</p>
+
+      </div>
+    </div>
+  </a>
+
+  <a class="ui raised link card" href="http://ddrohan.github.io/wit-mad-2-2019">
+    <div class="content">
+        <div class="right floated meta"> <i class="sitemap large icon"></i></div>
+        <div class="header"> Mobile App Development 2</div>
+    </div>
+    <div class="image">
+      <img class="ui bordered rounded image" src="./images/mb5.png">
+    </div>
+    <div class="content">
+      <div class="description">
+         <p>Android introduced a new user interface language to the world, one that is gradually evolving in flexibility and expressiveness. The first application we will build exhibits a range of new concepts you may not have come across before. Here we tour this app in detail, exploring each of the artifacts we have composed, and attempt to get a sense of how they fit together to form a running app.</p>
+
+      </div>
+    </div>
+  </a>
+   </div>
+
+
+  <br><br>
+  <div class="ui bottom fixed borderless menu">
+    <div class="ui small item">
+    <p id="footertext">
+    Prepared by David Drohan BSc., MSc.(ddrohan@wit.ie)
+     </p>
+    </div>
+  </div>
+
+    <script>
+
+$(document).ready(function()
+{
+  $("img").addClass ("ui image");
+  $('.ui.embed').embed();
+
+  var images = $(".lab img");
+  jQuery.each(images, function(i)  {
+    if((images[i].alt).length > 0)
+    {
+      var div_img = $(document.createElement("div")).addClass("ui segment");
+      $(images[i]).wrap(div_img);
+      var div_label = $(document.createElement("div")).addClass("ui ribbon teal top attached label");
+      div_label.append(images[i].alt);
+      $(div_label).insertBefore(images[i]);
+    }
+  });
+})
+
+  </script>
+
+  </body>
+ </html>
