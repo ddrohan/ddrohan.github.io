@@ -1,0 +1,56 @@
+STEPS
+=====
+
+Step 4:
+int only stores whole numbers. It cuts off the decimal
+70.56 becomes 70
+
+Step 5:
+float xCoordinate = 50; // same as saying 50.00
+
+float to double causes an error because Coordinates are passed into a function expecting floats (32 bit). Doubles are bigger (64 bit) and so it raise an error
+
+you can't have 2 vars declared as the same name
+
+EXERCISES:
+==========
+
+Exercise 1:
+y1 and y2 are the same for horizontal lines
+
+x1 and x2 are same for vertical lines
+to connect with first horizontal line and last horizontal line, the y1 should be same as y from first horizontal line, and the y2 should be same as y from last horizontal line
+
+
+Exercise 2:
+substitute a,b,c with sys vars: width and height
+
+Exercise 3:
+circle -> width and height are same.
+x is mouseX
+y is mouseY
+
+Exercise 4:
+	
+  // white circle
+  fill(255);
+  ellipse(x, y, y, y);
+  //black circle
+  fill(0);
+  ellipse(y, x, x, x);
+
+
+Challenges
+==========
+
+c1:
+noCursor
+
+c2:
+kinds of cursors: ARROW, CROSS, HAND, MOVE, TEXT, or WAIT
+cursor(HAND)
+
+c3: 
+pmousex and pmousey - mouse value on previous frame. 
+lines to / from previous mouse positions to connect the dots. 
+With background in draw(), you get a mouse trail. With background in setup you get a pencil tool.
