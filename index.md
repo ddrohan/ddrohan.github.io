@@ -9,9 +9,7 @@ This is where you can download all the lectures and lab solutions if you are una
 - [01.pdf](topics/topic01/01.pdf)
 - [02.pdf](topics/topic01/02.pdf)
 
-### [Lab-01](topics/topic01/lab01/00.md)
-
-### Lab-01 Solutions:
+#### Lab-01 Solutions:
 
 - [lab01_solutions.zip](topics/topic01/lab01_solutions.zip)
 
@@ -22,7 +20,9 @@ This is where you can download all the lectures and lab solutions if you are una
 - [03.pdf](topics/topic02/03.pdf)
 - [04.pdf](topics/topic02/04.pdf)
 
-### Lab-02 Solutions:
+### [Lab-02](topics/topic02/lab02/00.md)
+
+#### Lab-02 Solutions:
 
 - [lab02_solutions.zip](topics/topic02/lab02_solutions.zip)
 
@@ -33,7 +33,9 @@ This is where you can download all the lectures and lab solutions if you are una
 - [05.pdf](topics/topic03/05.pdf)
 - [06.pdf](topics/topic03/06.pdf)
 
-### Lab-03 Solutions:
+### [Lab-03](topics/topic03/lab03/00.md)
+
+#### Lab-03 Solutions:
 
 - [lab03_solutions.zip](topics/topic03/lab03_solutions.zip)
 
@@ -45,7 +47,9 @@ This is where you can download all the lectures and lab solutions if you are una
 - [08.pdf](topics/topic04/08.pdf)
 - [09.pdf](topics/topic04/09.pdf)
 
-### Lab-04 Solutions:
+### [Lab-04](topics/topic04/lab04/00.md)
+
+#### Lab-04 Solutions:
 
 - [lab04_solutions.zip](topics/topic04/lab04_solutions.zip)
 
@@ -56,7 +60,9 @@ This is where you can download all the lectures and lab solutions if you are una
 - [10.pdf](topics/topic05/10.pdf)
 - [11.pdf](topics/topic05/11.pdf)
 
-### Lab-05 Solutions:
+### [Lab-05](topics/topic05/lab05/00.md)
+
+#### Lab-05 Solutions:
 
 - [lab05_solutions.zip](topics/topic05/lab05_solutions.zip)
 
