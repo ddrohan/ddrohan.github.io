@@ -9,7 +9,7 @@ This is where you can download all the lectures and lab solutions if you are una
 - [01.pdf](topics/topic01/01.pdf)
 - [02.pdf](topics/topic01/02.pdf)
 
-### [Lab-01](topics/topic01/lab01/00.Lab-01.md)
+### [Lab-01](topics/topic01/lab01/00.md)
 
 ### Lab-01 Solutions:
 
