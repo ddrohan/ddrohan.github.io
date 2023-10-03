@@ -2,6 +2,10 @@
 
 This is where you can download all the lectures and lab solutions if you are unable to access the Tutors site
 
+## Safe Exam Browser (SEB) Setup
+
+### [SEB Setup Lab](topics/topicseb/seblab/00.md)
+
 ## Topic 01 - Introduction to Processing
 
 ### Lectures
@@ -65,4 +69,3 @@ This is where you can download all the lectures and lab solutions if you are una
 #### Lab-05 Solutions:
 
 - [lab05_solutions.zip](topics/topic05/lab05_solutions.zip)
-
