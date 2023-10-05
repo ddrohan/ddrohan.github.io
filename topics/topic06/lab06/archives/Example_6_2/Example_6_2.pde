@@ -1,0 +1,22 @@
+void setup()
+{
+  size(100,100);
+  noStroke();
+}
+
+void draw()
+{
+   background(204);
+   eye(65,44);
+   eye(20,50);
+}
+
+void eye(int x, int y)
+{
+   fill(255);
+   ellipse(x,y,60,60);        //outer white circle
+   fill(0);
+   ellipse(x+10, y, 30, 30);  //black circle
+   fill(255);
+   ellipse(x+16, y-5, 6, 6);  //small, white circle
+}

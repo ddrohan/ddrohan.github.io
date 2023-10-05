@@ -4,6 +4,8 @@ This is where you can download all the lectures and lab solutions if you are una
 
 ## [Safe Exam Browser (SEB) Setup Lab](topics/topicseb/seblab/00.md)
 
+## [Moodle Sample MCQ](https://moodle.wit.ie/mod/quiz/view.php?id=4003403)
+
 ## Topic 01 - Introduction to Processing
 
 ### Lectures
@@ -67,3 +69,19 @@ This is where you can download all the lectures and lab solutions if you are una
 #### Lab-05 Solutions:
 
 - [lab05_solutions.zip](topics/topic05/lab05_solutions.zip)
+
+## Topic 06 - Methods/Classes
+
+### Lectures
+
+- [12.pdf](topics/topic06/12.pdf)
+- [13.pdf](topics/topic06/13.pdf)
+- [14.pdf](topics/topic06/14.pdf)
+
+### [Lab-06](topics/topic06/lab06/00.md)
+
+#### Lab-05 Solutions:
+
+- [lab06_solutions.zip](topics/topic06/lab06_solutions.zip)
+- [Spot_Version0_0.zip](topics/topic06/Spot_Version0_0.zip)
+- [Spot_Version3_0.zip](topics/topic06/Spot_Version3_0.zip)
