@@ -2,6 +2,8 @@
 
 This is where you can download all the lectures and lab solutions if you are unable to access the Tutors site
 
+## [How to Login to Moodle](topics/topicmoodle/moodlelab/00.md)
+
 ## [Safe Exam Browser (SEB) Setup Lab](topics/topicseb/seblab/00.md)
 
 ## [Moodle Sample MCQ](https://moodle.wit.ie/mod/quiz/view.php?id=4003403)
