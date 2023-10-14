@@ -82,8 +82,19 @@ This is where you can download all the lectures and lab solutions if you are una
 
 ### [Lab-06](topics/topic06/lab06/00.md)
 
-#### Lab-05 Solutions:
+#### Lab-06 Solutions:
 
 - [lab06_solutions.zip](topics/topic06/lab06_solutions.zip)
 - [Spot_Version0_0.zip](topics/topic06/Spot_Version0_0.zip)
 - [Spot_Version3_0.zip](topics/topic06/Spot_Version3_0.zip)
+
+## Topic 07 - IntelliJ & Spot
+
+### Lectures
+
+- [15.pdf](topics/topic07/15.pdf)
+- [16.pdf](topics/topic07/16.pdf)
+- [17.pdf](topics/topic07/17.pdf)
+- [18.pdf](topics/topic07/18.pdf)
+
+### [Lab-07](topics/topic07/lab07/00.md)
