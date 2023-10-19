@@ -98,3 +98,13 @@ This is where you can download all the lectures and lab solutions if you are una
 - [18.pdf](topics/topic07/18.pdf)
 
 ### [Lab-07](topics/topic07/lab07/00.md)
+
+## Topic 08 - Shop & IO
+
+### Lectures
+
+- [19.pdf](topics/topic08/19.pdf)
+- [20.pdf](topics/topic08/20.pdf)
+- [21.pdf](topics/topic08/21.pdf)
+
+### [Lab-08](topics/topic08/lab08/00.md)
