@@ -109,6 +109,8 @@ This is where you can download all the lectures and lab solutions if you are una
 
 ### [Lab-08](topics/topic08/lab08/00.md)
 
+Topic 09...
+
 <!-- ## Topic 09 - Primitive Arrays
 
 ### Lectures
