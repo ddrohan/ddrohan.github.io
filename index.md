@@ -111,7 +111,7 @@ This is where you can download all the lectures and lab solutions if you are una
 
 Topic 09...
 
-<!-- ## Topic 09 - Primitive Arrays
+## Topic 09 - Primitive Arrays
 
 ### Lectures
 
@@ -119,4 +119,16 @@ Topic 09...
 - [23.pdf](topics/topic09/23.pdf)
 - [24.pdf](topics/topic09/24.pdf)
 
-### [Lab-09](topics/topic09/lab09/00.md) -->
+### [Lab-09](topics/topic09/lab09/00.md)
+
+Topic 09...
+
+## Topic 10 - Shop V2 & Menus
+
+### Lectures
+
+- [25.pdf](topics/topic10/25.pdf)
+- [26.pdf](topics/topic10/26.pdf)
+
+
+### [Lab-10](topics/topic10/lab10/00.md)
